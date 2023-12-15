@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmClubRegistration-Alba", "FrmClubRegistration-Alba\FrmClubRegistration-Alba.csproj", "{3AD40834-7C76-4E94-9E97-9F56C0F115E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD40834-7C76-4E94-9E97-9F56C0F115E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD40834-7C76-4E94-9E97-9F56C0F115E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD40834-7C76-4E94-9E97-9F56C0F115E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD40834-7C76-4E94-9E97-9F56C0F115E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D84B07-912A-42A0-AEC0-AC80D3ABF83D}
+	EndGlobalSection
+EndGlobal
